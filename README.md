@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+ENTHUSIAST+%7C+DEVELOPER+%7C+BUILDER;COMPUTER+VISION+%7C+MEDICAL+AI;FULL-STACK+DEVELOPER;BUILDING+AI-POWERED+SOLUTIONS;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+ENTHUSIAST+%7C+DEVELOPER+%7C+BUILDER;COMPUTER+VISION+%7C+MEDICAL+AI;FULL-STACK+DEVELOPER;BUILDING+AI-POWERED+SOLUTIONS;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS"/>
 </p>
 
 <p align="center">
@@ -11,14 +11,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/johns5oct">
+  <a href="https://github.com/johns15oct">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/john-s-s5">
     <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
   </a>
-
   <a href="mailto:johns15oct@gmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
   </a>
@@ -31,11 +29,13 @@
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://github.com/johns5oct.png" width="170"/>
+<img src="https://github.com/johns15oct.png" width="170" alt="Johnwick"/>
+
+<br><br>
 
 <h2>Johnwick</h2>
 
-<p><b>@johns5oct</b></p>
+<p><b>@johns15oct</b></p>
 
 <hr>
 
@@ -53,7 +53,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=johns5oct&label=PROFILE%20VIEWS&color=312E81&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=johns15oct&label=PROFILE%20VIEWS&color=312E81&style=flat-square"/>
 
 </td>
 
@@ -76,45 +76,33 @@ I enjoy exploring the intersection of
 <tr>
 
 <td align="center">
-
 <b>🤖 AI / ML</b>
-
 <br><br>
-
 Machine Learning
 <br>
 Deep Learning
 <br>
 LLM Applications
-
 </td>
 
 <td align="center">
-
 <b>👁️ Computer Vision</b>
-
 <br><br>
-
 OpenCV
 <br>
 Image Processing
 <br>
 Medical Imaging
-
 </td>
 
 <td align="center">
-
 <b>🌐 Development</b>
-
 <br><br>
-
 Web Applications
 <br>
 REST APIs
 <br>
 Cloud Deployment
-
 </td>
 
 </tr>
@@ -123,24 +111,17 @@ Cloud Deployment
 <h2>🔭 Current Focus</h2>
 
 <p align="center">
-
 <b>Artificial Intelligence</b>
 <br>↓<br>
-
 <b>Machine Learning</b>
 <br>↓<br>
-
 <b>Deep Learning</b>
 <br>↓<br>
-
 <b>Computer Vision</b>
 <br>↓<br>
-
 <b>Medical AI</b>
 <br>↓<br>
-
 <b>Real-World Applications</b>
-
 </p>
 
 </td>
@@ -169,24 +150,17 @@ Building an AI-based healthcare system focused on
 <h3>🔬 Project Pipeline</h3>
 
 <p align="center">
-
 <b>Retinal Image</b>
 <br>↓<br>
-
 <b>Image Processing</b>
 <br>↓<br>
-
 <b>Computer Vision</b>
 <br>↓<br>
-
 <b>Deep Learning</b>
 <br>↓<br>
-
 <b>AI Analysis</b>
 <br>↓<br>
-
 <b>Intelligent Results</b>
-
 </p>
 
 <p>
@@ -216,9 +190,7 @@ Building an AI-based healthcare system focused on
 
 <br>
 
-<p>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge"/>
-</p>
 
 </td>
 
@@ -331,97 +303,11 @@ Modern web applications with AI integration and cloud services.
 
 <hr>
 
-<h1>🧠 What I'm Working Towards</h1>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<h2>🤖</h2>
-
-<b>AI ENGINEERING</b>
-
-<br><br>
-
-Build intelligent
-systems
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>👁️</h2>
-
-<b>COMPUTER VISION</b>
-
-<br><br>
-
-Understand images
-with AI
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🏥</h2>
-
-<b>MEDICAL AI</b>
-
-<br><br>
-
-Solve healthcare
-problems
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🚀</h2>
-
-<b>DEPLOYMENT</b>
-
-<br><br>
-
-Turn ideas into
-real products
-
-</td>
-
-</tr>
-</table>
-
-<hr>
-
-<h1>💭 Philosophy</h1>
-
-<p align="center">
-
-<i>
-"Learning by building, breaking, and rebuilding."
-</i>
-
-</p>
-
-<p align="center">
-
-<b>BUILD</b>
-&nbsp; → &nbsp;
-<b>LEARN</b>
-&nbsp; → &nbsp;
-<b>DEPLOY</b>
-&nbsp; → &nbsp;
-<b>REPEAT</b>
-
-</p>
-
-<hr>
-
 <h1>🌐 Connect With Me</h1>
 
 <p align="center">
 
-<a href="https://github.com/johns5oct">
+<a href="https://github.com/johns15oct">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -438,27 +324,19 @@ real products
 <br>
 
 <p align="center">
-
 <b>Thanks for visiting my profile.</b>
-
 </p>
 
 <p align="center">
-
 <i>Let's build something intelligent.</i>
-
 </p>
 
 <br>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0EA5E9,50:312E81,100:020617&animation=twinkling" width="100%"/>
-
 </p>
 
 <p align="center">
-
 <b>🚀 BUILD • LEARN • DEPLOY • REPEAT</b>
-
 </p>
