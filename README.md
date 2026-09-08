@@ -11,12 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/johns15oct-dot">
+  <a href="https://github.com/johns5oct">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/john-s-s5">
     <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
   </a>
+
   <a href="mailto:johns15oct@gmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
   </a>
@@ -26,13 +28,14 @@
 
 <table>
 <tr>
+
 <td width="25%" align="center" valign="top">
 
-<img src="https://github.com/johns15oct-dot.png" width="170"/>
+<img src="https://github.com/johns5oct.png" width="170"/>
 
 <h2>Johnwick</h2>
 
-<p><b>@johns15oct-dot</b></p>
+<p><b>@johns5oct</b></p>
 
 <hr>
 
@@ -50,7 +53,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=johns15oct-dot&label=PROFILE%20VIEWS&color=312E81&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=johns5oct&label=PROFILE%20VIEWS&color=312E81&style=flat-square"/>
 
 </td>
 
@@ -73,33 +76,45 @@ I enjoy exploring the intersection of
 <tr>
 
 <td align="center">
+
 <b>🤖 AI / ML</b>
+
 <br><br>
+
 Machine Learning
 <br>
 Deep Learning
 <br>
 LLM Applications
+
 </td>
 
 <td align="center">
+
 <b>👁️ Computer Vision</b>
+
 <br><br>
+
 OpenCV
 <br>
 Image Processing
 <br>
 Medical Imaging
+
 </td>
 
 <td align="center">
+
 <b>🌐 Development</b>
+
 <br><br>
+
 Web Applications
 <br>
 REST APIs
 <br>
 Cloud Deployment
+
 </td>
 
 </tr>
@@ -108,20 +123,28 @@ Cloud Deployment
 <h2>🔭 Current Focus</h2>
 
 <p align="center">
+
 <b>Artificial Intelligence</b>
 <br>↓<br>
+
 <b>Machine Learning</b>
 <br>↓<br>
+
 <b>Deep Learning</b>
 <br>↓<br>
+
 <b>Computer Vision</b>
 <br>↓<br>
+
 <b>Medical AI</b>
 <br>↓<br>
+
 <b>Real-World Applications</b>
+
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -146,17 +169,24 @@ Building an AI-based healthcare system focused on
 <h3>🔬 Project Pipeline</h3>
 
 <p align="center">
+
 <b>Retinal Image</b>
 <br>↓<br>
+
 <b>Image Processing</b>
 <br>↓<br>
+
 <b>Computer Vision</b>
 <br>↓<br>
+
 <b>Deep Learning</b>
 <br>↓<br>
+
 <b>AI Analysis</b>
 <br>↓<br>
+
 <b>Intelligent Results</b>
+
 </p>
 
 <p>
@@ -301,80 +331,62 @@ Modern web applications with AI integration and cloud services.
 
 <hr>
 
-<h1>📊 GitHub Statistics</h1>
+<h1>🧠 What I'm Working Towards</h1>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=johns15oct-dot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johns15oct-dot&theme=tokyonight&hide_border=true" width="48%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johns15oct-dot&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
-
-</p>
-
-<hr>
-
-<h1>📈 Contribution Graph</h1>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johns15oct-dot&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</p>
-
-<hr>
-
-<h1>🏆 GitHub Trophies</h1>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=johns15oct-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-
-</p>
-
-<hr>
-
-<h1>📚 Currently Learning</h1>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=python&logoColor=38BDF8"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-020617?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-
-<img src="https://img.shields.io/badge/Medical%20AI-020617?style=for-the-badge&logoColor=22C55E"/>
-
-<img src="https://img.shields.io/badge/LLMs-020617?style=for-the-badge&logoColor=FFFFFF"/>
-
-</p>
-
-<hr>
-
-<h1>🛣️ My Developer Journey</h1>
-
-<table align="center">
+<table>
 <tr>
 
-<td align="center">💡<br><b>IDEA</b></td>
-<td>→</td>
-<td align="center">🧠<br><b>LEARN</b></td>
-<td>→</td>
-<td align="center">🔨<br><b>BUILD</b></td>
-<td>→</td>
-<td align="center">🧪<br><b>TEST</b></td>
-<td>→</td>
-<td align="center">💥<br><b>BREAK</b></td>
-<td>→</td>
-<td align="center">🔧<br><b>IMPROVE</b></td>
-<td>→</td>
-<td align="center">🚀<br><b>DEPLOY</b></td>
+<td align="center" width="25%">
+
+<h2>🤖</h2>
+
+<b>AI ENGINEERING</b>
+
+<br><br>
+
+Build intelligent
+systems
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>👁️</h2>
+
+<b>COMPUTER VISION</b>
+
+<br><br>
+
+Understand images
+with AI
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🏥</h2>
+
+<b>MEDICAL AI</b>
+
+<br><br>
+
+Solve healthcare
+problems
+
+</td>
+
+<td align="center" width="25%">
+
+<h2>🚀</h2>
+
+<b>DEPLOYMENT</b>
+
+<br><br>
+
+Turn ideas into
+real products
+
+</td>
 
 </tr>
 </table>
@@ -385,13 +397,23 @@ Modern web applications with AI integration and cloud services.
 
 <p align="center">
 
-<i>"Learning by building, breaking, and rebuilding."</i>
+<i>
+"Learning by building, breaking, and rebuilding."
+</i>
 
 </p>
 
-<h2 align="center">
-BUILD → LEARN → DEPLOY → REPEAT
-</h2>
+<p align="center">
+
+<b>BUILD</b>
+&nbsp; → &nbsp;
+<b>LEARN</b>
+&nbsp; → &nbsp;
+<b>DEPLOY</b>
+&nbsp; → &nbsp;
+<b>REPEAT</b>
+
+</p>
 
 <hr>
 
@@ -399,7 +421,7 @@ BUILD → LEARN → DEPLOY → REPEAT
 
 <p align="center">
 
-<a href="https://github.com/johns15oct-dot">
+<a href="https://github.com/johns5oct">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -413,18 +435,30 @@ BUILD → LEARN → DEPLOY → REPEAT
 
 </p>
 
-<hr>
+<br>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0EA5E9,50:312E81,100:020617" width="100%"/>
+<b>Thanks for visiting my profile.</b>
 
 </p>
 
-<h2 align="center">
-🚀 Build. Learn. Deploy. Repeat.
-</h2>
+<p align="center">
+
+<i>Let's build something intelligent.</i>
+
+</p>
+
+<br>
 
 <p align="center">
-<i>Turning curiosity into intelligent systems.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0EA5E9,50:312E81,100:020617&animation=twinkling" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<b>🚀 BUILD • LEARN • DEPLOY • REPEAT</b>
+
 </p>
