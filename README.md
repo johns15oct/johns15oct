@@ -1,349 +1,345 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0F172A,75:312E81,100:0EA5E9&text=JOHN&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:312E81,100:0EA5E9&text=JOHN&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+ENTHUSIAST+%7C+DEVELOPER+%7C+BUILDER;COMPUTER+VISION+%7C+MEDICAL+AI;FULL-STACK+DEVELOPER;BUILDING+AI-POWERED+SOLUTIONS;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=AI%2FML+ENTHUSIAST+%7C+DEVELOPER+%7C+BUILDER;COMPUTER+VISION+%7C+MEDICAL+AI;FULL-STACK+DEVELOPER;BUILDING+AI-POWERED+SOLUTIONS;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS" />
 </p>
 
 <p align="center">
   <b>Turning ideas into intelligent systems.</b>
 </p>
+
 <p align="center">
-
-<a href="https://github.com/johns15oct">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/john-s-s5">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-<a href="mailto:johns15oct@gmail.com">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
-</a>
-
+  <a href="https://github.com/johns15oct-dot">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/john-s-s5">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+  </a>
+  <a href="mailto:johns15oct@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
+  </a>
 </p>
 
----
+<hr>
+
 <table>
 <tr>
-
 <td width="25%" align="center" valign="top">
 
-<img src="https://github.com/johns15oct.png" width="180"/>
-
-<br><br>
+<img src="https://github.com/johns15oct-dot.png" width="170"/>
 
 <h2>Johnwick</h2>
 
-<p><code>@johns15oct-dot</code></p>
+<p><b>@johns15oct-dot</b></p>
+
+<hr>
+
+<p>🤖 AI/ML Enthusiast</p>
+<p>💻 Developer</p>
+<p>🚀 Builder</p>
+<p>🌐 Full-Stack Explorer</p>
+
+<hr>
+
+<p>📍 India</p>
+<p>🎓 B.E. Mechanical</p>
+<p>👁️ Computer Vision</p>
+<p>🏥 Medical AI</p>
 
 <br>
 
-<b>AI/ML Enthusiast</b>
-
-<br><br>
-
-<b>Developer</b>
-
-<br><br>
-
-<b>Builder</b>
-
-<br><br>
-
-<b>Full-Stack Explorer</b>
-
-<br><br>
-
-📍 India
-
-<br>
-
-🎓 B.E. Mechanical
-
-<br>
-
-👁️ Computer Vision
-
-<br>
-
-🏥 Medical AI
+<img src="https://komarev.com/ghpvc/?username=johns15oct-dot&label=PROFILE%20VIEWS&color=312E81&style=flat-square"/>
 
 </td>
 
 <td width="75%" valign="top">
 
-# 👨‍💻 About Me
+<h1>👨‍💻 About Me</h1>
 
-I'm **John**, an AI/ML enthusiast and developer passionate about building technology that solves real-world problems.
+<p>
+I'm <b>John</b>, an AI/ML enthusiast and developer passionate about solving real-world problems through technology.
+</p>
 
-I enjoy exploring the intersection of:
+<p>
+I enjoy exploring the intersection of
+<b>Artificial Intelligence × Computer Vision × Healthcare × Web Development</b>.
+</p>
 
-**Artificial Intelligence × Computer Vision × Healthcare × Web Development**
-
-## 🧠 What I Do
+<h2>🧠 What I Do</h2>
 
 <table>
 <tr>
 
-<td>
-
-🤖 <b>AI / ML</b>
-
+<td align="center">
+<b>🤖 AI / ML</b>
 <br><br>
-
-Machine Learning  
-Deep Learning  
+Machine Learning
+<br>
+Deep Learning
+<br>
 LLM Applications
-
 </td>
 
-<td>
-
-👁️ <b>Computer Vision</b>
-
+<td align="center">
+<b>👁️ Computer Vision</b>
 <br><br>
-
-OpenCV  
-Image Processing  
+OpenCV
+<br>
+Image Processing
+<br>
 Medical Imaging
+</td>
+
+<td align="center">
+<b>🌐 Development</b>
+<br><br>
+Web Applications
+<br>
+REST APIs
+<br>
+Cloud Deployment
+</td>
+
+</tr>
+</table>
+
+<h2>🔭 Current Focus</h2>
+
+<p align="center">
+<b>Artificial Intelligence</b>
+<br>↓<br>
+<b>Machine Learning</b>
+<br>↓<br>
+<b>Deep Learning</b>
+<br>↓<br>
+<b>Computer Vision</b>
+<br>↓<br>
+<b>Medical AI</b>
+<br>↓<br>
+<b>Real-World Applications</b>
+</p>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h1>🚀 Currently Building</h1>
+
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
+<h2>👁️ Retina AI</h2>
+
+<h3>AI-Powered Healthcare Project</h3>
+
+<p>
+Building an AI-based healthcare system focused on
+<b>retinal image analysis</b> using Computer Vision and Deep Learning.
+</p>
+
+<h3>🔬 Project Pipeline</h3>
+
+<p align="center">
+<b>Retinal Image</b>
+<br>↓<br>
+<b>Image Processing</b>
+<br>↓<br>
+<b>Computer Vision</b>
+<br>↓<br>
+<b>Deep Learning</b>
+<br>↓<br>
+<b>AI Analysis</b>
+<br>↓<br>
+<b>Intelligent Results</b>
+</p>
+
+<p>
+<b>Technologies:</b>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch"/>
+</p>
 
 </td>
 
-<td>
+<td width="30%" align="center" valign="middle">
 
-🌐 <b>Development</b>
+<h1>👁️</h1>
 
-<br><br>
+<h2>Retina AI</h2>
 
-Web Applications  
-REST APIs  
-Cloud Deployment
+<p><b>Medical AI</b></p>
+
+<br>
+
+<p>🔬 Computer Vision</p>
+<p>🧠 Deep Learning</p>
+<p>🏥 Healthcare</p>
+<p>📊 Image Analysis</p>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge"/>
+</p>
 
 </td>
 
 </tr>
 </table>
 
-## 🔭 Current Focus
+<hr>
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Medical AI
-        ↓
-Real-World Applications
+<h1>⚡ Tech Stack</h1>
 
-This creates the **left profile section + right About Me section**.
-
----
-
-# Step 6 — Add Retina AI
-
-Below the next `---`, paste:
-
-```html
-# 🚀 Currently Building
-
-<table>
-<tr>
-
-<td width="75%" valign="top">
-
-## 👁️ Retina AI
-
-### AI-Powered Healthcare Project
-
-Building an AI-based healthcare system focused on **retinal image analysis** using Computer Vision and Deep Learning.
-
-### 🔬 Project Pipeline
-
-```text
-Retinal Image
-      ↓
-Image Processing
-      ↓
-Computer Vision
-      ↓
-Deep Learning
-      ↓
-AI Analysis
-      ↓
-Intelligent Results
-
----
-
-# Step 7 — Add the skill logos
-
-This is the important part you wanted.
-
-Paste:
-
-```html
-# ⚡ Tech Stack
-
-## 💻 Programming Languages
+<h2>💻 Programming Languages</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,js"/>
 </p>
 
-## 🌐 Web Development
+<h2>🌐 Web Development</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs"/>
 </p>
 
-## 🤖 AI / Machine Learning
+<h2>🤖 AI / Machine Learning</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
-## 🗄️ Backend & Database
+<h2>🗄️ Backend & Database</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb"/>
 </p>
 
-## 🛠️ Tools
+<h2>🛠️ Tools</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,vercel,canva"/>
 </p>
 
----
-# 📁 Featured Projects
+<hr>
+
+<h1>📁 Featured Projects</h1>
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-## 👁️ Retina AI
+<h2>👁️ Retina AI</h2>
 
+<p>
 AI-powered retinal image analysis using Computer Vision and Deep Learning.
+</p>
 
-### Stack
+<p><b>Stack</b></p>
 
 <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow"/>
 
-`Medical AI`
+<br><br>
 
-`Computer Vision`
-
-`Deep Learning`
+<code>Medical AI</code>
+<code>Computer Vision</code>
+<code>Deep Learning</code>
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🤖 AI Applications
+<h2>🤖 AI Applications</h2>
 
-Exploring LLMs, AI APIs and automation tools.
+<p>
+Exploring LLMs, AI APIs and automation tools to create intelligent applications.
+</p>
 
-### Stack
+<p><b>Stack</b></p>
 
 <img src="https://skillicons.dev/icons?i=python,js,nodejs"/>
 
-`LLM`
+<br><br>
 
-`REST API`
-
-`Automation`
+<code>LLM</code>
+<code>REST API</code>
+<code>Automation</code>
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🌐 Full-Stack Apps
+<h2>🌐 Full-Stack Apps</h2>
 
-Modern web applications with AI integration.
+<p>
+Modern web applications with AI integration and cloud services.
+</p>
 
-### Stack
+<p><b>Stack</b></p>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,firebase"/>
 
-`React`
+<br><br>
 
-`Firebase`
-
-`Next.js`
+<code>React</code>
+<code>Firebase</code>
+<code>Next.js</code>
 
 </td>
 
 </tr>
 </table>
 
----
-# 📊 GitHub Statistics
+<hr>
+
+<h1>📊 GitHub Statistics</h1>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johns15oct-dot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=818CF8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=johns15oct-dot&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johns15oct-dot&hide_border=true&background=020617&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johns15oct-dot&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johns15oct-dot&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johns15oct-dot&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 
 </p>
 
----
-# 📈 Contribution Graph
+<hr>
+
+<h1>📈 Contribution Graph</h1>
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=johns15oct-dot&bg_color=020617&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johns15oct-dot&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </p>
 
----
-# 🏆 GitHub Trophies
+<hr>
+
+<h1>🏆 GitHub Trophies</h1>
 
 <p align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=johns15oct-dot&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-width="100%"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=johns15oct-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 
 </p>
 
----
-# 🏆 GitHub Trophies
+<hr>
 
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=johns15oct-dot&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-width="100%"
-/>
-
-</p>
-
----
-# 📚 Currently Learning
+<h1>📚 Currently Learning</h1>
 
 <p align="center">
 
@@ -359,27 +355,51 @@ width="100%"
 
 </p>
 
----
-# 💭 Philosophy
+<hr>
+
+<h1>🛣️ My Developer Journey</h1>
+
+<table align="center">
+<tr>
+
+<td align="center">💡<br><b>IDEA</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>LEARN</b></td>
+<td>→</td>
+<td align="center">🔨<br><b>BUILD</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>TEST</b></td>
+<td>→</td>
+<td align="center">💥<br><b>BREAK</b></td>
+<td>→</td>
+<td align="center">🔧<br><b>IMPROVE</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>DEPLOY</b></td>
+
+</tr>
+</table>
+
+<hr>
+
+<h1>💭 Philosophy</h1>
 
 <p align="center">
 
-> **"Learning by building, breaking, and rebuilding."**
+<i>"Learning by building, breaking, and rebuilding."</i>
 
 </p>
 
+<h2 align="center">
+BUILD → LEARN → DEPLOY → REPEAT
+</h2>
+
+<hr>
+
+<h1>🌐 Connect With Me</h1>
+
 <p align="center">
 
-### BUILD → LEARN → DEPLOY → REPEAT
-
-</p>
-
----
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/johns15oct">
+<a href="https://github.com/johns15oct-dot">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -393,21 +413,18 @@ width="100%"
 
 </p>
 
----
+<hr>
+
 <p align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0EA5E9,50:312E81,100:020617"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0EA5E9,50:312E81,100:020617" width="100%"/>
 
 </p>
 
+<h2 align="center">
+🚀 Build. Learn. Deploy. Repeat.
+</h2>
+
 <p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BUILD.+LEARN.+DEPLOY.+REPEAT.;KEEP+BUILDING+%F0%9F%9A%80"
-alt="Footer"
-/>
-
+<i>Turning curiosity into intelligent systems.</i>
 </p>
