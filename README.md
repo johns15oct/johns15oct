@@ -1,80 +1,53 @@
-<!-- ===================================================== -->
-<!--                    ANIMATED HEADER                    -->
-<!-- ===================================================== -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        HEADER                                 -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JOHNWICK&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:0EA5E9&text=JOHN%20WICK&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=twinkling"
     width="100%"
   />
 </p>
 
-<!-- ===================================================== -->
-<!--                     INTRO                             -->
-<!-- ===================================================== -->
-
-<h1 align="center">👋 Hello World! I'm John</h1>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast+%7C+Developer;Building+AI-Powered+Solutions;Computer+Vision+%7C+Medical+AI;Full-Stack+Explorer;Learning+by+Building;Build.+Learn.+Deploy.+Repeat."
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI%2FML+ENGINEER+IN+PROGRESS;COMPUTER+VISION+%7C+MEDICAL+AI;FULL-STACK+DEVELOPER;BUILDING+REAL-WORLD+AI+SYSTEMS;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS"
   />
 </p>
 
+<br>
+
 <p align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=johns15oct-dot&label=Profile%20Views&color=blueviolet&style=for-the-badge"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/johns15oct-dot?label=Followers&style=for-the-badge&color=blue"
-    alt="Followers"
-  />
-
+  <a href="https://github.com/johns15oct-dot">
+    <img src="https://img.shields.io/badge/GITHUB-0f172a?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/john-s-s5">
+    <img src="https://img.shields.io/badge/LINKEDIN-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8"/>
+  </a>
+  <a href="mailto:johns15oct@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0f172a?style=flat-square&logo=gmail&logoColor=ef4444"/>
+  </a>
 </p>
+
+<br>
 
 ---
 
-<!-- ===================================================== -->
-<!--                    ABOUT ME                           -->
-<!-- ===================================================== -->
+# `> whoami`
 
-## 🧠 About Me
-
-```yaml
-Name: John
-
-Role:
-  - AI/ML Enthusiast
-  - Developer
-  - Builder
-  - Full-Stack Explorer
-
-Currently Building:
-  - Retina AI
-  - AI-powered healthcare solutions
-  - Computer Vision applications
-  - Intelligent systems
-
-Currently Learning:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Medical AI
-  - LLM Applications
-  - Intelligent Systems
-
-Programming:
-  - Python
-  - C++
-  - JavaScript
-
-Mindset:
-  - Build
-  - Break
-  - Learn
-  - Rebuild
-  - Deploy
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   JOHN                                                        │
+│                                                              │
+│   AI/ML Enthusiast       Developer       Builder             │
+│                                                              │
+│   ───────────────────────────────────────────────────────     │
+│                                                              │
+│   🧠 Artificial Intelligence                                │
+│   👁️ Computer Vision                                        │
+│   🏥 Medical AI                                               │
+│   🌐 Full-Stack Development                                   │
+│   ⚙️ Intelligent Systems                                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
